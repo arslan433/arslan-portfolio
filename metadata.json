@@ -1,0 +1,8 @@
+{
+  "name": "Arslan Muhammad Developer Portfolio",
+  "description": "Smart, fast, and scalable portfolio website combining Laravel and Next.js with Generative AI, Python, and LangChain, featuring a custom chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

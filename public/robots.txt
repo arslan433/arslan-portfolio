@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /admin
+
+# Host
+Host: https://arslan-dev.vercel.app
+
+# Sitemaps
+Sitemap: https://arslan-dev.vercel.app/sitemap.xml
