@@ -8,7 +8,7 @@ Welcome to my official portfolio repository! This is a modern, fast, and highly 
 
 ## 👨‍💻 About Me
 
-I am a **Web & Generative AI Developer** based in Rawalpindi, Pakistan. With a robust background in full-stack web development (Laravel & Next.js), I love bridging the gap between traditional backend architectures and cutting-edge Generative AI workflows. 
+I am a **Full Stack Developer** based in Rawalpindi, Pakistan. With a robust background in full-stack web development (Laravel & Next.js), I love bridging the gap between traditional backend architectures and cutting-edge Generative AI workflows. 
 
 * **My Philosophy:** Technology should simplify work, eliminate repetitive tasks, and create context-aware user experiences.
 * **Current Focus:** Building production-ready web apps while actively integrating modern AI stacks like Python, LangChain, local LLMs, and Retrieval-Augmented Generation (RAG).
