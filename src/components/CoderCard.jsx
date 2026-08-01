@@ -36,11 +36,11 @@ export default function CoderCard() {
                   .typeString(
                     `<span class="text-indigo-500 dark:text-indigo-400">const</span> <span class="text-teal-500 dark:text-teal-400">developer</span> <span class="text-zinc-400">=</span> <span class="text-amber-500 dark:text-amber-400">{</span><br>` +
                     `  <span class="text-rose-500 dark:text-rose-400">name</span>: <span class="text-emerald-600 dark:text-emerald-400">'Arslan Muhammad'</span>,<br>` +
-                    `  <span class="text-rose-500 dark:text-rose-400">role</span>: <span class="text-emerald-600 dark:text-emerald-400">'Full Stack Web and GenAI Developer'</span>,<br>` +
+                    `  <span class="text-rose-500 dark:text-rose-400">role</span>: <span class="text-emerald-600 dark:text-emerald-400">'Full Stack Developer'</span>,<br>` +
                     `  <span class="text-rose-500 dark:text-rose-400">skills</span>: [<br>` +
                     `    <span class="text-emerald-600 dark:text-emerald-400">'Laravel'</span>, <span class="text-emerald-600 dark:text-emerald-400">'Next.js'</span>, <span class="text-emerald-600 dark:text-emerald-400">'React.js'</span>,<br>` +
-                    `    <span class="text-emerald-600 dark:text-emerald-400">'React Native'</span>, <span class="text-emerald-600 dark:text-emerald-400">'MySQL'</span>, <span class="text-emerald-600 dark:text-emerald-400">'MongoDB'</span>,<br>` +
-                    `    <span class="text-emerald-600 dark:text-emerald-400">'Python'</span>, <span class="text-emerald-600 dark:text-emerald-400">'LangChain'</span>, <span class="text-emerald-600 dark:text-emerald-400">'RAG'</span><br>` +
+                    `    <span class="text-emerald-600 dark:text-emerald-400">'React Native'</span>, <span class="text-emerald-600 dark:text-emerald-400">'MySQL'</span>, ` +
+                   
                     `  ],<br>` +
                     `  <span class="text-rose-500 dark:text-rose-400">adaptive</span>: <span class="text-amber-500 dark:text-amber-400">true</span>,<br>` +
                     `  <span class="text-rose-500 dark:text-rose-400">hireable</span>() <span class="text-amber-500 dark:text-amber-400">{</span><br>` +

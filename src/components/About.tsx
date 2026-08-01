@@ -85,7 +85,7 @@ export default function About() {
             <span className="hidden sm:inline h-4 w-[1px] bg-zinc-200 dark:bg-zinc-800" />
 
             {/* Resume Button */}
-            <a target="_blank" href="/Arslan-Web-&-Generative-AI-Developer-Resume.pdf">
+            <a target="_blank" href="/Arslan-Full-Stack-Developer-In-Laravel-Next.JS.pdf">
               <motion.button
                 whileHover={{ scale: 1.03 }}
                 whileTap={{ scale: 0.98 }}

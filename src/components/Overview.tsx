@@ -474,7 +474,7 @@ export default function Overview() {
 
             {/* Resume / CV and StackOverflow Button */}
             <div className="flex flex-wrap items-center gap-4 pt-2">
-              <a target="_blank" href="/Arslan-Web-&-Generative-AI-Developer-Resume.pdf">
+              <a target="_blank" href="/Arslan-Full-Stack-Developer-In-Laravel-Next.JS.pdf">
                 <motion.button
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}

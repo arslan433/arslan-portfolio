@@ -36,7 +36,7 @@ export default function Footer() {
             Experience
           </Link>
           <a 
-            href="/Arslan-Web-&-Generative-AI-Developer-Resume.pdf" 
+            href="/Arslan-Full-Stack-Developer-In-Laravel-Next.JS.pdf" 
             target="_blank" 
             className="hover:text-emerald-500 dark:hover:text-emerald-400 transition-colors"
           >
