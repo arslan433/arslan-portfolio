@@ -1,4 +1,4 @@
-# 🚀 Arslan Muhammad - Web & Generative AI Developer Portfolio
+# 🚀 Arslan Muhammad - Full Stack Developer Portfolio
 
 Welcome to my official portfolio repository! This is a modern, fast, and highly interactive digital space designed to showcase my projects, professional journey, technical expertise, and my shift toward building intelligent, AI-driven web applications.
 
