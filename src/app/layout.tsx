@@ -1,65 +1,3 @@
-// import type { Metadata } from "next";
-// import { Inter } from "next/font/google";
-// import "@/app/globals.css";
-// import { ToastProvider } from "@/components/ui/Toast";
-// import Navbar from "@/components/Navbar";
-
-// const inter = Inter({
-//   subsets: ["latin"],
-//   variable: "--font-sans",
-// });
-
-// export const metadata: Metadata = {
-//   title: "Professional Full-Stack Developer Portfolio | Web Apps & Systems",
-//   description: "Explore the engineering portfolio of a senior software developer building robust full-stack web applications, dynamic cloud platforms, and interactive user interfaces using Next.js, React, TypeScript, Firebase, and Supabase.",
-//   keywords: [
-//     "Full Stack Developer Portfolio",
-//     "Software Engineer Portfolio",
-//     "Hire Senior React Developer",
-//     "Next.js Development Expert",
-//     "Supabase Web Apps Developer",
-//     "Firebase Full Stack Solutions",
-//     "TypeScript Engineering Projects",
-//     "Custom Web Applications Creator"
-//   ],
-//   authors: [{ name: "Professional Full-Stack Developer" }],
-//   openGraph: {
-//     title: "Professional Full-Stack Developer Portfolio | Innovative Web Solutions",
-//     description: "Explore senior-level projects, live application demos, and interactive cloud systems engineered for performance and scalability.",
-//     type: "website",
-//     locale: "en_US",
-//     siteName: "Developer Portfolio Hub",
-//   },
-//   twitter: {
-//     card: "summary_large_image",
-//     title: "Senior Full-Stack Developer Portfolio",
-//     description: "Dynamic responsive web systems built with TypeScript, Next.js, and modern serverless backends.",
-//   },
-//   other: {
-//     "robots": "index, follow",
-//   }
-// };
-
-// export default function RootLayout({
-//   children,
-// }: {
-//   children: React.ReactNode;
-// }) {
-//   return (
-//     <html lang="en" className={`${inter.variable} antialiased`} suppressHydrationWarning>
-//       <body className="font-sans bg-[#fbfbfb] text-gray-950 min-h-screen flex flex-col selection:bg-gray-200 selection:text-black" suppressHydrationWarning>
-//         <ToastProvider>
-//           <Navbar />
-//           <main className="flex-grow pt-16">
-//             {children}
-//           </main>
-        
-//         </ToastProvider>
-//       </body>
-//     </html>
-//   );
-// }
-
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
@@ -80,11 +18,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Arslan Muhammad | Web & Generative AI Developer Portfolio",
+  title: "Arslan Muhammad | Full Stack Developer Portfolio",
   description:
-    "Hi, I'm Arslan. I build smart, fast, and scalable web apps. By combining Laravel and Next.js with Generative AI, Python, and LangChain, I create next-level digital experiences. Check out my latest work!",
+    "Hi, I'm Arslan. I build smart web applications using Laravel, Next.js, React.js, and MySQL. Explore my real-world projects, from robust e-commerce backends to custom local AI chat models.",
   keywords: [
+    "hire Next.js developer",
     "hire web developer",
+    "hire laravel developer",
     "hire generative AI developer",
     "hire full stack developer",
     "freelance generative AI developer",
@@ -93,7 +33,27 @@ export const metadata: Metadata = {
     "custom AI chatbot developer",
     "Python and LangChain integration",
     "local LLM and RAG apps",
-    "e-commerce dashboard developer"
+    "e-commerce dashboard developer",
+    "AI-powered web applications",
+    "custom AI chatbots",
+    "smart data dashboards",
+    "full stack web development",
+    "Next.js and React.js projects",
+    "Laravel and MySQL solutions",
+    "AI integration for web apps",
+    "portfolio of a full stack developer",
+    "real-world web development projects",
+    "AI-driven web solutions",
+    "innovative web applications",
+    "cutting-edge AI web development",
+    "custom web application development",
+    "smart web solutions with AI",
+    "full stack developer portfolio",
+    "web development with Arslan Muhammad",
+    "hire Arslan Muhammad for web projects",
+    "freelance full stack developer services",
+    "Custom Web Applications Creator",
+    ""
   ],
   verification: {
     google: "-L-Lb66Y16FhRw5TQiXoH7qj3wRN-r5qYyBe2UsMxII",
@@ -101,7 +61,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     url: "https://arslan-dev.vercel.app",
-    title: "Arslan Muhammad | Web & Generative AI Developer",
+    title: "Arslan Muhammad | Full Stack Developer",
     description:
       "Looking for a developer who bridges traditional web development with cutting-edge AI? Explore my portfolio featuring e-commerce platforms, custom AI chatbots, and smart data dashboards.",
     images: [
@@ -115,9 +75,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Arslan Muhammad | Web & Generative AI Developer",
+    title: "Arslan Muhammad | Full Stack Developer",
     description:
-      "I build smart web applications using Laravel, Next.js, and Python. Explore my real-world projects, from robust e-commerce backends to custom local AI chat models.",
+      "I build smart web applications using Laravel, Next.js, React.js, and MySQL. Explore my real-world projects, from robust e-commerce backends to custom local AI chat models.",
     images: ["https://arslan-dev.vercel.app/assets/og-image.webp"],
   },
 };
